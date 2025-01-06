@@ -1,4 +1,4 @@
-# **AI Image Caption Generator**
+![image](https://github.com/user-attachments/assets/661f2c67-eb4b-40e8-b6a1-28ee981abf23)![image](https://github.com/user-attachments/assets/4ca756f6-0c7a-4e8f-a89f-0e2918451bc8)# **AI Image Caption Generator**
 
 This project demonstrates a beginner's journey into Generative AI by creating an AI-powered tool that generates descriptive captions for images. It combines computer vision and natural language processing to convert visual data into meaningful text. The project highlights my foundational skills in Generative AI and my ability to integrate pre-trained models into practical applications.
 
@@ -62,7 +62,7 @@ python app.py
 ## **Example Output**
 
 **Input Image**:  
-![Example Input](example-input.jpg)  
+<img width="553" alt="Screenshot 2025-01-06 at 12 44 58 PM" src="https://github.com/user-attachments/assets/a0f1b094-4a7c-475d-afcd-494a1a49dc4a" />
 
 **Generated Caption**:  
 *"A scenic view of mountains and a lake under a bright blue sky."*
