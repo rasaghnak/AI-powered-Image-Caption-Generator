@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/661f2c67-eb4b-40e8-b6a1-28ee981abf23)![image](https://github.com/user-attachments/assets/4ca756f6-0c7a-4e8f-a89f-0e2918451bc8)# **AI Image Caption Generator**
+**AI Image Caption Generator**
 
 This project demonstrates a beginner's journey into Generative AI by creating an AI-powered tool that generates descriptive captions for images. It combines computer vision and natural language processing to convert visual data into meaningful text. The project highlights my foundational skills in Generative AI and my ability to integrate pre-trained models into practical applications.
 
